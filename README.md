@@ -60,8 +60,8 @@ After cloning, you should see the `backend/` and `frontend/` directories populat
 
 > **📚 Submodule Documentation**: Each submodule has its own detailed README with specific setup instructions:
 >
-> - **Backend**: See [backend/README.md](backend/README.md) for backend-specific setup
-> - **Frontend**: See [frontend/README.md](frontend/README.md) for frontend-specific setup
+> - **Backend**: See [backend/README.md](https://github.com/ram-kumar-shrestha/photographer-portfolio-backend/blob/main/README.md) for backend-specific setup
+> - **Frontend**: See [frontend/README.md](https://github.com/ram-kumar-shrestha/photographer-portfolio-frontend/blob/main/README.md) for frontend-specific setup
 
 ### 2. Set Up Backend
 
